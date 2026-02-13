@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**alapatikavya0407/alapatikavya0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on: Scalable backend and full-stack projects while sharpening my DSA skills.<br><br>🤝 I’m looking to collaborate on: Open-source backend and impactful web applications.<br><br>🆘 I’m looking for help with: System design and production-level architecture.<br><br>🌱 I’m currently learning: Microservices, cloud (AWS), and advanced DSA.<br><br>💬 Ask me about:  Python, DSA, Java, APIs, and database optimization.
 
 
@@ -31,5 +22,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=alapatikavya0407&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
